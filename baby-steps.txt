@@ -1,0 +1,45 @@
+levante-se 
+vá até o guarda-roupas
+abra as portas do guarda-roupas
+pegue a camisa vermelha xadrex
+pegue a calça jeans azul
+pegue a cueca cinza
+pegue a meia amarela
+pegue o cinto marrom
+vá até o banheiro
+tire a roupa
+abra o chuveiro
+vá para debaixo do chuveiro
+pegue o sabonete
+passe o sabonete pelo corpo
+pegue o shampoo
+passe o shampoo no cabelo
+aguarde 2 minutos
+desligue o chuveiro
+pegue a toalha
+seque o corpo
+pegue o desodorante
+passe nas axilas
+pegue o pente
+passe o pente no cabelo
+pegue a camisa vermelha xadrez
+vista a camisa vermelha xadrez
+pegue a cueca cinza
+vista a cueca cinza
+pegue a calça jeans azul
+vista a calça jeans azul
+pegue o cinto marrom
+coloque o cinto marrom na calça jeans azul
+pegue a meia amarela
+coloque a meia amarela no pé
+vá até o sapateiro
+pegue a bota preta
+coloque a bota preta no pé
+volte ao banheiro
+pegue o perfume
+passe o perfume no pescoço.
+vá até a sala
+pegue a carteira
+pegue as chaves
+
+você está pronto!
