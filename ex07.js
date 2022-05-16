@@ -1,21 +1,17 @@
-let nota = 820;
+let nota = 45;
 
-switch (nota) {
-  case (nota / 100) > 100 && (nota / 100) < 0:
-    console.log("error")
-    break;
-
-    case (nota / 100) >= 90:
-      console.log("A")
-      break;
-    
-    case (nota / 100 >= 80):
-    console.log("B")
-    break;
-
-  default:
-    console.log("error")
-    break;
+if (nota > 100 || nota < 0) {
+  console.log("Error 404")
+} else if (nota >= 90) {
+  console.log("A")
+} else if (nota >= 80) {
+  console.log("B") 
+} else if (nota >= 70) {
+  console.log("C") 
+} else if (nota >= 60) {
+  console.log("D") 
+} else if (nota >= 50) {
+  console.log("E") 
+} else {
+  console.log("F")
 }
-
-// não está dando certo
