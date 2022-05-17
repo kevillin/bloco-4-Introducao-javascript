@@ -1,7 +1,7 @@
-let word = "tryber";
-let palindromo;
+let word = 'tryber';
+let palindromo = '';
 
-for (let index = word.length-1; index > word.length; index--) {
+for (let index = word.length-1; index >= 0; index--) {
   palindromo = palindromo + word[index];
 }
 
